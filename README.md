@@ -55,4 +55,4 @@ This project is configured as a purely static application and can be deployed in
 Live Application Link
 Once deployed, replace the placeholder below with your Vercel URL:
 
-Live Demo on Vercel
+Live Demo on Vercel https://course-recommendation-system-xi.vercel.app/
